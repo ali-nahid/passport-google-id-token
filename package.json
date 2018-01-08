@@ -28,7 +28,8 @@
   "dependencies": {
     "passport-strategy": "^1.0.0",
     "jsonwebtoken": "^5.0.0",
-    "request": "2.81.x"
+    "request": "2.81.x",
+    "google-auth-library": "^0.12.0"
   },
   "engines": {
     "node": ">= 0.4.0"
