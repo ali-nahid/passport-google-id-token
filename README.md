@@ -12,7 +12,7 @@ Official Google documentation:
 
 ## Install
 
-    $ npm install git+https://github.com/riyaz-ali/passport-google-id-token.git
+    $ npm install git+https://github.com/nahidali123/passport-google-id-token.git
 
 ## Usage
 
