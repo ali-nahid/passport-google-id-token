@@ -1,7 +1,7 @@
 {
-  "name": "passport-google-id-token",
-  "version": "0.4.4",
-  "description": "Google ID token authentication strategy for Passport.",
+  "name": "loopback-passport-google-id-token",
+  "version": "0.4.5",
+  "description": "Google ID token authentication strategy for Passport. Customized to work with Loopback.",
   "keywords": [
     "passport",
     "google",
@@ -13,15 +13,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/jmreyes/passport-google-id-token.git"
+    "url": "git://github.com/ali-nahid/passport-google-id-token.git"
   },
   "bugs": {
-    "url": "http://github.com/jmreyes/passport-google-id-token/issues"
+    "url": "https://github.com/ali-nahid/passport-google-id-token"
   },
   "author": {
-    "name": "Juan Manuel Reyes",
-    "email": "juanma.resp@gmail.com",
-    "url": "http://jmreyes.net"
+    "name": "Nahid Ali",
+    "email": "nahidali123@gmail.com",
+    "url": "https://github.com/ali-nahid"
   },
   "license": "MIT",
   "main": "./lib/passport-google-id-token",

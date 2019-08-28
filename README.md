@@ -1,5 +1,6 @@
 passport-google-id-token
 ========================
+## The code of this project has been customized to support project specific requirements.
 
 Google ID token authentication strategy for [Passport](http://passportjs.org/) and [Node.js](http://nodejs.org/).
 
