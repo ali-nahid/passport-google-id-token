@@ -1,6 +1,6 @@
 {
   "name": "loopback-passport-google-id-token",
-  "version": "0.4.5",
+  "version": "0.4.6",
   "description": "Google ID token authentication strategy for Passport. Customized to work with Loopback.",
   "keywords": [
     "passport",
